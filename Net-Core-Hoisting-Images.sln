@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net-Core-Hoisting-Images", "Net-Core-Hoisting-Images\Net-Core-Hoisting-Images.csproj", "{5C9973CC-F43A-4A22-A04E-19DED47C7F9B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net-Core-Hosting-Images", "Net-Core-Hosting-Images\Net-Core-Hosting-Images.csproj", "{5C9973CC-F43A-4A22-A04E-19DED47C7F9B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

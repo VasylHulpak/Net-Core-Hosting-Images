@@ -1,4 +1,4 @@
-# Simple hoisting images
+# Simple project for hosting images
 
 ### Steps:
 * create folder and past images from project `C:\inetpub\wwwroot\Net_Core_Hoisting_Images\Images\`
